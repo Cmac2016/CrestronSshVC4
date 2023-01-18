@@ -1,0 +1,6 @@
+C:\Users\chrma\source\repos\S#Libraries\FxSsh\FxSsh\obj\Debug\FxSsh.csproj.AssemblyReference.cache
+C:\Users\chrma\source\repos\S#Libraries\FxSsh\FxSsh\obj\Debug\FxSsh.csproj.CoreCompileInputs.cache
+C:\Users\chrma\source\repos\S#Libraries\FxSsh\FxSsh\bin\Debug\FxSsh.dll
+C:\Users\chrma\source\repos\S#Libraries\FxSsh\FxSsh\bin\Debug\FxSsh.pdb
+C:\Users\chrma\source\repos\S#Libraries\FxSsh\FxSsh\obj\Debug\FxSsh.dll
+C:\Users\chrma\source\repos\S#Libraries\FxSsh\FxSsh\obj\Debug\FxSsh.pdb
