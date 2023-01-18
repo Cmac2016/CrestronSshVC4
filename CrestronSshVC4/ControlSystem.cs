@@ -61,7 +61,7 @@ namespace CrestronSshVC4
             }
         }
 
-        /
+        
         void _ControllerProgramEventHandler(eProgramStatusEventType programStatusEventType)
         {
             switch (programStatusEventType)
